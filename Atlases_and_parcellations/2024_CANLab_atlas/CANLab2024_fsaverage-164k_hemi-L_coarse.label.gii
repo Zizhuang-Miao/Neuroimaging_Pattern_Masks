@@ -21,7 +21,7 @@
 Type: Command Line Application
 Version: 1.5.0
 Qt Compiled Version: 5.7.0
-Qt Runtime Version: 5.15.12
+Qt Runtime Version: 5.15.14
 Commit: 76441605d20536d81034a64c9d34ec393aa528b9
 Commit Date: 2021-02-16 13:46:47 -0600
 Compiled with OpenMP: YES
@@ -37,7 +37,7 @@ Operating System: Linux
       </MD>
       <MD>
          <Name><![CDATA[WorkingDirectory]]></Name>
-         <Value><![CDATA[/home/bogdan/.matlab/canlab/Neuroimaging_Pattern_Masks/Atlases_and_parcellations/2024_CANLab_atlas]]></Value>
+         <Value><![CDATA[/home/bogdan/.matlab/canlab/Neuroimaging_Pattern_Masks/Atlases_and_parcellations/2024_CANLab_atlas/src]]></Value>
       </MD>
    </MetaData>
    <LabelTable>
